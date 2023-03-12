@@ -46,23 +46,29 @@ I have been informed that Microsoft wants a piece of the multi-billion dollar mo
 # Results
 
 The highest grossing films were of the genre action science fiction adventures.
-![v1](https://user-images.githubusercontent.com/115760894/224537482-395ed76f-4ece-4469-9d7f-2b0420471921.jpg)
+
 
 
 The runtime for movies in the top 250 spot was on average between 113 to 166  minutes of runtime.
 
-![v1](https://user-images.githubusercontent.com/115760894/224537510-e19c1647-02f8-4e56-b7fa-65510b092475.jpg)
+![runtimegraph](https://user-images.githubusercontent.com/115760894/224537712-e76f8210-c613-4a8e-a158-a4ffca8f4b3b.png)
+
 
 
 The runtime of movies per genre pie chart.
-![v1](https://user-images.githubusercontent.com/115760894/224537534-55d71973-8a0a-4629-82f3-74cb253ebd68.jpg)
+
+![genresbargraph](https://user-images.githubusercontent.com/115760894/224537738-dc53cbbc-0ecb-448c-b0f8-e031c2ccc629.png)
 
 
 A scatter plot of  relationships between production budget and worldwide gross.
-![v1](https://user-images.githubusercontent.com/115760894/224537555-ef60f3dc-9399-48b9-a657-89c75a546b4a.jpg)
+![positivecorr](https://user-images.githubusercontent.com/115760894/224537906-be4ebd35-fbe0-4dc7-8975-d58b58a30414.png)
 
 
-The genre Action adventure sci_fi had 44.0 percent of the genres distribution the dataset.
+
+
+The genre Action adventure sci_fi had 44.0 percent of the genres distribution the dataset
+![pie3](https://user-images.githubusercontent.com/115760894/224537794-283d1d7a-2570-4685-ae86-2d22b475f479.png)
+
 
 # Conclusion
 
