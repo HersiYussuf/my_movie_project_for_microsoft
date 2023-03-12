@@ -13,8 +13,6 @@
 * My analysis has shown that there is a strong correlation between movie budgets and worldwide box office grosses. Specifically, movies with larger budgets tend to perform better at the box office than those with smaller budgets. Based on this finding, I recommend that Microsoft allocate at least 150 million dollars to produce a movie in order to maximize its chances of success at the box office.
 
 
-  * My analysis has shown that there is a strong correlation between movie budgets and worldwide box office grosses. Specifically, movies with larger budgets tend to perform better at the box office than those with smaller budgets. Based on this finding, I recommend that Microsoft allocate at least 150 million dollars to produce a movie in order to maximize its chances of success at the box office.
-
 
 ## Business Problem.
 
