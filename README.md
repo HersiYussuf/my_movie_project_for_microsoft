@@ -1,4 +1,4 @@
-![cinema]("C:\Users\Yussuf Hersi\OneDrive\Desktop\md\v1.jpg")
+![cinema](C:\Users\Yussuf Hersi\OneDrive\Desktop\md\v1.jpg)
 
 # Movie analysis Project.
 
@@ -45,7 +45,7 @@ I have been informed that Microsoft wants a piece of the multi-billion dollar mo
 
 # Results
 
-The highest grossing films were of the genre   action science fiction d adventures.
+The highest grossing films were of the genre action science fiction adventures.
 
 ![](runtimegraph.png)
 
